@@ -1,6 +1,6 @@
 👋 Hey! I'm a systems engineer who is passionate about high-performance computing, distributed systems, and system-level optimization.
 
-- Currently diving deep into Rust - hoping to bring it into my professional toolkit soon
+- Currently diving deep into Rust
 - Been building and optimizing computer vision products from research as a Principal Deep Learning Software Engineer at PTC (2018-2025)
 - Applied HPC and distributed systems to various research applications as a postdoc and Research Staff Member at IBM Research Zurich (2013-2016)
 - Experienced with the full stack of HPC technologies: MPI, OpenMP, CUDA, and distributed computing systems
